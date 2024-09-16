@@ -22,9 +22,4 @@ This is a backend for a job portal where users can register as students or admin
 - **Authentication**: JWT for secure user authentication
 - **Password Security**: bcrypt for hashing passwords
 
----
 
-
-   ```bash
-   git clone https://github.com/USERNAME/Job-Portal-Backend.git
-   cd Job-Portal-Backend
